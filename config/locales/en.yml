@@ -1,0 +1,4 @@
+# English strings go here for Rails i18n
+en:
+  permission_log_foreign_time: Add time logs for other users
+  
